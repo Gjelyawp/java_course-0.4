@@ -1,1 +1,1 @@
-# java_course-0.4
+# java_course-softwaretesting
